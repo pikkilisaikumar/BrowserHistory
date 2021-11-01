@@ -1,0 +1,33 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.firstparagraph {
+  padding-left: 20px;
+  padding-right: 40px;
+}
+.buttonone {
+  background-color: transparent;
+  border-width: 0px;
+}
+.threethingscontainer {
+  display: flex;
+}
+.deleteImg {
+  height: 20px;
+  width: 20px;
+}
+.timeaccessparagraph {
+  padding-right: 12px;
+}
+.firstparagraph {
+  padding-left: 20px;
+}
+
+.logoUrlimg {
+  height: 45px;
+  padding-top: 10px;
+  width: 45px;
+  padding-right: 12px;
+}
